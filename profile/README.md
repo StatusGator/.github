@@ -1,4 +1,4 @@
-<img src="https://statusgator.com/blog/wp-content/uploads/2021/08/Artboard-1.png" height=100 alt="StatusGator">
+<img src="https://statusgator.com/blog/wp-content/uploads/2021/08/Artboard-1.png" height=80 alt="StatusGator">
 
 # StatusGator - More than just a status page
 
