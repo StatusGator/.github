@@ -1,59 +1,71 @@
 <img src="https://statusgator.com/blog/wp-content/uploads/2021/08/Artboard-1.png" height=100 alt="StatusGator">
 
-# Instant Cloud Status Monitoring
+# More than just a status page
 
-Our instant status pages aggregate the status of all the services you depend on.
-Now monitoring and normalizing data from 2,560 services!
-
-## Solutions for Everyone
-
-### Education
-
-- Keep students and staff informed
-- Reduce ticket volume
-- Essential for remote learning
-
-[Learn more](https://statusgator.com/solutions/education?utm_source=github&utm_medium=readme)
-
-### DevOps
-
-- Shorten incident downtime
-- Unify maintenance schedules
-- Integrates with incident tools
-
-[Learn more](https://statusgator.com/solutions/devops?utm_source=github&utm_medium=readme)
-
-### IT HelpDesk
-
-- Reduce ticket volume
-- Improve transparency
-- Shorten resolution time
-
-[Learn more](https://statusgator.com/solutions/helpdesk?utm_source=github&utm_medium=readme)
+StatusGator monitors all your cloud services and websites, notifies you before official status pages do, and helps you communicate outages to reduce support tickets.
 
 ## Features
 
 ### Status Pages
+Create professional, branded status pages that aggregate and display the status of your services, websites, and custom monitors in one unified view. Keep your team and customers informed with a centralized and transparent status page.
+(https://statusgator.com/features/status-page)
 
-- Choose from 2,560+ services hand-picked for educational organizations
-- Branded with your logo, colors, and domain
-- Publish one link with the status of all your services
+### Cloud Monitoring
+Monitor the status of over 4,000 popular cloud services, hosted applications, and APIs to stay updated on their uptime and performance.
+(https://statusgator.com/features/cloud-monitoring)
+
+### Website Monitoring
+Track your website’s availability and performance with robust uptime monitoring to ensure a seamless user experience.
+(https://statusgator.com/features/website-monitoring)
+
+### Ping Monitoring
+Ensure your services are reachable by tracking network connectivity with configurable check intervals and timeout settings.
+(https://statusgator.com/features/ping-monitoring)
+
+### Incident Communication
+Create and manage incidents for custom monitors, allowing you to communicate downtime and maintenance effectively.
+(https://statusgator.com/features/incidents)
+
+### Early Warning Signals
+Get alerted to service disruptions before they are officially announced, giving you a proactive edge to manage potential issues.
+(https://statusgator.com/features/early-warning-signals)
 
 ### Instant Notifications
-
-- Notify your IT team when issues are detected or resolved
-- Send to email, SMS, Slack, or Teams
-- Flexible filters to send only when needed
+Stay informed with real-time alerts sent to your IT team via email, SMS, Slack, Teams, Webex, Discord, or Google Chat with flexible filters to ensure you only receive relevant updates.
 
 ...and more.
 
-- Set up in 3 minutes by simply adding services you want to monitor
-- Add your logo and notification channels
-- Free plan forever
-- API
+## Solutions for Everyone
+
+### IT Teams
+Respond to outages faster by keeping IT and helpdesk staff informed.
+
+### DevOps
+When AWS melts down or Cloudflare is fighting an outage, keep your team up to date on the incident with a StatusGator status page and notifications.
+
+### Enterprise
+Provide tailored, clear notifications to meet the unique needs of extensive teams, ensuring smooth operations during disruptions.
+
+### Schools
+Keep staff, teachers, and students informed and reduce support ticket burden by quickly communicating known issues.
+
+### Competitive intelligence
+Immediate alerts empower DevOps teams, ensuring competitiveness and resilience against disruptions.
+
+### Manage service providers
+Enable quick responses to prevent disruptions and maintain seamless operations for your clients.
+
+### E-commerce
+Monitor uptime for essential e-commerce services: payment gateways, CDNs, CRMs, inventory, email, and analytics.
+
+### SaaS
+With StatusGator, you can create two status pages: One that's just for your team and one for your customers.
+
 
 Get visibility into your service statuses ⬇️
-[Try for free](https://statusgator.com/users/sign_up?utm_source=github&utm_medium=readme)
+[Try for free](https://statusgator.com/users/sign_up)
+
+[Schedule a Free Demo with StatusGator](https://savvycal.com/statusgator/bb11bf73?d=60&view=week&from=2024-12-16&sid=41a18a4a-8363-414c-b775-997c02e83f5f)
 
 ## Popular Services
 
@@ -78,16 +90,19 @@ Get visibility into your service statuses ⬇️
 * [Pingdom status and historical status data](https://statusgator.com/services/pingdom)
 * [Snyk status and historical status data](https://statusgator.com/services/snyk)
 
-👉 [Monitor your dependencies](https://statusgator.com/users/sign_up?utm_source=github&utm_medium=readme).
+👉 [Monitor your dependencies](https://statusgator.com/users/sign_up).
 
 ## Top Blog Posts
 Find out more about StatusGator, status page aggregation, and how does it compare to other tools on the market.
 
-* [Status page aggregation](https://statusgator.com/blog/status-page-aggregation/)
-* [How to customize a status page](https://statusgator.com/blog/customize-your-public-dashboard/)
-* [Direct Monitoring](https://statusgator.com/blog/now-available-direct-monitoring/)
-* [StatusGator vs IsDown](https://statusgator.com/blog/best-isdown-alternative/)
-* [5 Downdetector alternatives](https://statusgator.com/blog/downdetector-alternatives/)
-* [Updating status page via Slack](https://statusgator.com/blog/new-in-slack-list-all-your-services/)
+* [IT Outage Notification Templates](https://statusgator.com/blog/it-outage-notification-templates/)
+* [Incident Communication Best Practices](https://statusgator.com/blog/incident-communication-best-practices/)
+* [How to Create an Incident Communication Plan](https://statusgator.com/blog/how-to-create-an-incident-communication-plan/)
+* [Why K12 IT Directors Love StatusGator](https://statusgator.com/blog/why-k12-it-directors-love-statusgator/)
+* [How StatusGator is Different](https://statusgator.com/blog/how-statusgator-is-different/)
+* [Web Application Monitoring Best Practices](https://statusgator.com/blog/web-application-monitoring-best-practices/)
+* [How to Monitor Multiple Status Pages](https://statusgator.com/blog/how-to-monitor-multiple-status-pages/)
+* [How to Build a Status Page](https://statusgator.com/blog/how-to-build-status-page/)
+
 
 🐊 More [about StatusGator and status monitoring](https://statusgator.com/blog/).
