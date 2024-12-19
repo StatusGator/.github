@@ -73,10 +73,10 @@ With StatusGator, you can create two status pages: One that's just for your team
 [Learn more](https://statusgator.com/blog/why-k12-it-directors-love-statusgator/)
 
 
-Get visibility into your service statuses ⬇️
+Get visibility into your service statuses ➡️
 [Try for free](https://statusgator.com/users/sign_up)
 
-Schedule a Free Demo with StatusGator
+Schedule a Free Demo with StatusGator ➡️
 [Schedule here](https://savvycal.com/statusgator/bb11bf73?d=60&view=week&from=2024-12-16&sid=41a18a4a-8363-414c-b775-997c02e83f5f)
 
 ## Popular Services
