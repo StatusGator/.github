@@ -1,6 +1,6 @@
 <img src="https://statusgator.com/blog/wp-content/uploads/2021/08/Artboard-1.png" height=80 alt="StatusGator">
 
-# StatusGator - More than just a status page
+# StatusGator - Early outage alerts for every app you rely on
 
 StatusGator monitors all your cloud services and websites, notifies you before official status pages do, and helps you communicate outages to reduce support tickets.
 
